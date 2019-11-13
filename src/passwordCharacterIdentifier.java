@@ -4,14 +4,14 @@ public class passwordCharacterIdentifier
 {
 	public static void main(String[] args) 
 	{
-		String password; 
 		int passwordValue;
-				
+		
 		Scanner passwordInput = new Scanner(System.in);
 		Scanner passwordCharValueInput = new Scanner (System.in);
 		
 		while (true)
 		{
+			String password; 
 			System.out.println("Enter a password with more than 2 and less than 32 characters: ");
 		
 		    password = passwordInput.nextLine();
