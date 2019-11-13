@@ -1,1 +1,1 @@
-java -jar PasswordCharacterIdentifier.jar
+java -jar D:\Projects\Code\password-character-indexer\out\artifacts\password_character_indexer_jar\password-character-indexer.jar

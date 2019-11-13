@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="PasswordCharacterIdentifier:jar" />
+      <artifact name="password-character-indexer:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5c0d074-113c-449d-9012-9a63caf09608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PasswordCharacterIdentifier_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordCharacterIdentifier.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c5c0d074-113c-449d-9012-9a63caf09608" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,26 +14,46 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/passwordCharacterIdentifier.java">
+        <entry file="file://$PROJECT_DIR$/src/PasswordCharacterIndexer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="493">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/out/artifacts/PasswordCharacterIdentifier_jar/run.bat">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="119">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/passwordCharacterIdentifier.java" />
+        <option value="$PROJECT_DIR$/src/PasswordCharacterIndexer.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="256" />
@@ -53,41 +68,18 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PasswordCharacterIdentifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PasswordCharacterIdentifier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PasswordCharacterIdentifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PasswordCharacterIdentifier" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PasswordCharacterIdentifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PasswordCharacterIdentifier" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PasswordCharacterIdentifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PasswordCharacterIdentifier" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="PasswordCharacterIdentifier_jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PasswordCharacterIdentifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PasswordCharacterIdentifier" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="password-character-indexer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="password-character-indexer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -96,7 +88,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550484689687" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nominee/nominee-service-api-master" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -114,17 +106,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.PasswordCharacterIdentifier.jar">
-    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PasswordGenerator" />
-      <module name="PasswordCharacterIdentifier" />
+  <component name="RunManager" selected="Application.PasswordCharacterIndexer">
+    <configuration name="PasswordCharacterIndexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordCharacterIndexer" />
+      <module name="password-character-indexer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="passwordCharacterIdentifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="passwordCharacterIdentifier" />
-      <module name="PasswordCharacterIdentifier" />
+    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordGenerator" />
+      <module name="password-character-indexer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,10 +125,15 @@
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/PasswordCharacterIdentifier_jar/PasswordCharacterIdentifier.jar" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.PasswordCharacterIndexer" />
+      <item itemvalue="Application.PasswordGenerator" />
+      <item itemvalue="JAR Application.PasswordCharacterIdentifier.jar" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PasswordCharacterIndexer" />
         <item itemvalue="JAR Application.PasswordCharacterIdentifier.jar" />
-        <item itemvalue="Application.passwordCharacterIdentifier" />
         <item itemvalue="Application.PasswordGenerator" />
       </list>
     </recent_temporary>
@@ -164,16 +161,20 @@
       <workItem from="1573566956878" duration="829000" />
       <workItem from="1573576880764" duration="29000" />
       <workItem from="1573586231039" duration="98000" />
+      <workItem from="1573646980431" duration="6000" />
+      <workItem from="1573647009524" duration="747000" />
+      <workItem from="1573647933451" duration="87000" />
+      <workItem from="1573648116319" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2705000" />
+    <option name="totallyTimeSpent" value="3579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22257552" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22933227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,18 +209,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PasswordCharacterIdentifier.iml" />
+    <entry file="file://$PROJECT_DIR$/password-character-indexer.iml" />
     <entry file="file://$PROJECT_DIR$/.project" />
     <entry file="file://$PROJECT_DIR$/src/PasswordGenerator.java" />
-    <entry file="file://$PROJECT_DIR$/src/passwordCharacterIdentifier.java">
+    <entry file="file://$PROJECT_DIR$/out/artifacts/PasswordCharacterIdentifier_jar/run.bat" />
+    <entry file="file://$PROJECT_DIR$/src/PasswordCharacterIndexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="493">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/artifacts/PasswordCharacterIdentifier_jar/run.bat">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -227,7 +236,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>PasswordCharacterIdentifier:jar</last-edited>
+          <last-edited>password-character-indexer:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class passwordCharacterIdentifier 
+public class PasswordCharacterIndexer
 {
 	public static void main(String[] args) 
 	{
